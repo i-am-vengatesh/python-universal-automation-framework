@@ -1,28 +1,19 @@
-# Python Universal Automation Framework
+# Universal Python Automation Framework
 
-A production-oriented Python automation framework designed for enterprise environments.
+A scalable, modular, enterprise-grade automation framework built using Python.
 
 ## Vision
 
-Build a scalable, modular, reusable and maintainable automation framework supporting:
+Build a reusable automation platform capable of supporting:
 
 - UI Automation
 - API Automation
 - CLI Automation
-- Infrastructure Automation
-- Future Mobile Automation
+- Mobile Automation
+- Database Automation
 
-## Technology Stack
+using a common execution engine.
 
-- Python
-- Pytest
-- Playwright
-- Requests
-- Docker
-- Kubernetes
-- Jenkins
-- GitHub Actions
+## Current Status
 
-## Project Status
-
-🚧 Under Development
+Sprint 2 - Framework Skeleton
